@@ -6,4 +6,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steeze1213&show_icons=true&bg_color=00000000&title_color=fd8599&icon_color=fdb4c0&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeze1213&layout=compact&hide_border=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steeze1213&repo=TIL)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steeze1213&repo=steeze1213)
