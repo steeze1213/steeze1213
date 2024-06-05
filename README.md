@@ -6,8 +6,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeze1213&layout=compact&hide_border=true)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steeze1213&custom_title=Steezer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Steezer's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steeze1213&custom_title=Steezer's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Steezer's Github Activity Graph" width="100%">
 </div>
+
 
 <h4>You can use belowing <a href="https://simpleicons.org/">Here</a>
 
