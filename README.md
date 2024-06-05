@@ -4,3 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steeze1213&show_icons=true&bg_color=00000000&title_color=FFBF00&icon_color=FFBF00&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeze1213&layout=compact&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steeze1213&custom_title=Steezer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Steezer's Github Activity Graph" width="100%">
+</div>
