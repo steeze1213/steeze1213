@@ -9,6 +9,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=steeze1213&custom_title=Steezer's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=000000&line=626069&point=F8D847&area_color=FE428E&title_color=FFBF00&area=true&grid_color=000000" alt="Steezer's Github Activity Graph" width="100%">
 </div>
 
+<h4>Contact</h4>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:steeze1213@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
