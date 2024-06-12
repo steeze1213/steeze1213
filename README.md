@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFBF00&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+steezer's+GitHub!🖐️)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFBF00&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+steezer's+GitHub!🖐️)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsteeze1213&count_bg=%23FFF451&title_bg=%23FFDA5E&icon=&icon_color=%23FFFFFF&title=%E2%98%85&edge_flat=false)
 
