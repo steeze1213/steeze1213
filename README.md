@@ -13,6 +13,12 @@
 
 ---
 
+<h4>BaekJoon Tier</h4>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steeze1213)](https://solved.ac/steeze1213/)
+
+---
+
 <h4>Contact</h4>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:steeze1213@gmail.com">
