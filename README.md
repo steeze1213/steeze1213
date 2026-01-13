@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&text=&animation=twinkling&height=80)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFBF00&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+steezer's+GitHub!🖐️)
 
+<!--
 ![steezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=steeze1213&show_icons=true&bg_color=00000000&title_color=FFBF00&icon_color=FFBF00&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeze1213&layout=compact&hide_border=true)
+-->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=steeze1213&custom_title=steezer's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=000000&line=626069&point=F8D847&area_color=FE428E&title_color=FFBF00&area=true&grid_color=000000" alt="steezer's Github Activity Graph" width="100%">
