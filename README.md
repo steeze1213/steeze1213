@@ -18,6 +18,13 @@
 
 ---
 
+<h3>Tistory Recent Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <h3>Contact</h3>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:steeze1213@gmail.com">
