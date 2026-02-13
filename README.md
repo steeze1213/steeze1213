@@ -20,121 +20,21 @@
 
 <h3>Tistory</h3>
 
-<!-- BLOG-POST-LIST:START --><table>
+<!-- BLOG-POST-LIST:START -->
+<table>
   <tr>
-    {{range $i, $post := .Posts}}
-      {{if lt $i 3}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
+    <td width="33%"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
   <tr>
-    {{range $i, $post := .Posts}}
-      {{if and (ge $i 3) (lt $i 6)}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
+    <td width="33%"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
-</table><table>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if lt $i 3}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if and (ge $i 3) (lt $i 6)}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-</table><table>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if lt $i 3}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if and (ge $i 3) (lt $i 6)}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-</table><table>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if lt $i 3}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if and (ge $i 3) (lt $i 6)}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-</table><table>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if lt $i 3}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if and (ge $i 3) (lt $i 6)}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-</table><table>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if lt $i 3}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-  <tr>
-    {{range $i, $post := .Posts}}
-      {{if and (ge $i 3) (lt $i 6)}}
-      <td width="33%" valign="top">
-        <a href="{{$post.URL}}">{{$post.Title}}</a>
-      </td>
-      {{end}}
-    {{end}}
-  </tr>
-</table><!-- BLOG-POST-LIST:END -->
+</table>
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ---
