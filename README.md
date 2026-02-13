@@ -22,14 +22,7 @@
 
 <table>
   <tr>
-    <td><!-- BLOG-POST-LIST:START --></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><!-- BLOG-POST-LIST:END --></td>
+    <td><!-- BLOG-POST-LIST:START --><a href="https://steezer.tistory.com/44" target="_blank">융합_로보테크 AI 자율주행 로봇 개발자 과정-26/02/13</a><a href="https://steezer.tistory.com/43" target="_blank">융합_로보테크 AI 자율주행 로봇 개발자 과정-26/02/12</a><a href="https://steezer.tistory.com/42" target="_blank">융합_로보테크 AI 자율주행 로봇 개발자 과정-26/02/11</a><a href="https://steezer.tistory.com/41" target="_blank">융합_로보테크 AI 자율주행 로봇 개발자 과정-26/02/10[C++]</a><a href="https://steezer.tistory.com/40" target="_blank">융합_로보테크 AI 자율주행 로봇 개발자 과정-26/02/09[Git]</a><a href="https://steezer.tistory.com/39" target="_blank">ABC 부트캠프 데이터 탐험가 과정 3기</a><!-- BLOG-POST-LIST:END --></td>
   </tr>
 </table>
 
