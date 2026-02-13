@@ -2,7 +2,7 @@ name: Update Tistory Posts
 
 on:
   schedule:
-    - cron: "0 15 * * *"   # 매일 00:00 (한국시간 UTC+9)
+    - cron: "0 15 * * *"   # 매일 00:00 (KST, UTC+9)
   workflow_dispatch:
 
 jobs:
@@ -16,4 +16,23 @@ jobs:
           feed_list: "https://feeds.feedburner.com/tistory/buphmkgake2"
           max_post_count: 6
           template: |
-            <a href="$url" target="_blank">$title</a>
+            <table>
+              <tr>
+                {{range $i, $post := .Posts}}
+                  {{if lt $i 3}}
+                  <td width="33%" valign="top">
+                    <a href="{{$post.URL}}">{{$post.Title}}</a>
+                  </td>
+                  {{end}}
+                {{end}}
+              </tr>
+              <tr>
+                {{range $i, $post := .Posts}}
+                  {{if and (ge $i 3) (lt $i 6)}}
+                  <td width="33%" valign="top">
+                    <a href="{{$post.URL}}">{{$post.Title}}</a>
+                  </td>
+                  {{end}}
+                {{end}}
+              </tr>
+            </table>
