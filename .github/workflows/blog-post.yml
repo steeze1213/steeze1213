@@ -2,7 +2,7 @@ name: Update Tistory Posts
 
 on:
   schedule:
-    - cron: "0 15 * * *"   # 한국시간 00:00 (UTC+9)
+    - cron: "0 15 * * *"  # 한국시간 00:00 (UTC+9)
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,5 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://steezer.tistory.com/rss"
+          feed_list: "https://steezer.tistory.com/rss.xml"
           max_post_count: 6
-          template: '<a href="$url">$title</a>'
