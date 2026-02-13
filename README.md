@@ -18,10 +18,20 @@
 
 ---
 
-<h3>Tistory Recent Posts</h3>
+<h3>Tistory</h3>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr>
+    <td><!-- BLOG-POST-LIST:START --></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><!-- BLOG-POST-LIST:END --></td>
+  </tr>
+</table>
 
 ---
 
