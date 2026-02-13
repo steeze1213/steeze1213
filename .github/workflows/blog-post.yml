@@ -1,0 +1,19 @@
+name: Update Tistory Posts
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 매일 00:00 (한국시간 UTC+9)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feeds.feedburner.com/tistory/buphmkgake2"
+          max_post_count: 6
+          template: |
+            <a href="$url" target="_blank">$title</a>
