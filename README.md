@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="test.png" width="112" height="144" alt="증명사진">
+      <img src="PF.jpg" width="112" height="144" alt="증명사진">
     </td>
     <td>
 
