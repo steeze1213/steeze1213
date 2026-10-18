@@ -32,12 +32,6 @@ AI, 자율주행, 로보틱스 분야에 관심을 갖고 공부하고 있는 �
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steeze1213&custom_title=steezer's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=000000&line=626069&point=F8D847&area_color=FE428E&title_color=FFBF00&area=true&grid_color=000000" alt="steezer's Github Activity Graph" width="100%">
-</div>
-
----
-
 ## BaekJoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steeze1213)](https://solved.ac/steeze1213/)
